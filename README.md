@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there, I'm Diego Mais. I'm a software engineer. I'm currently interested in Node.js, ReactJS, React Native and TypeScript.](https://github.com/diegomais/diegomais/raw/master/bio.gif)
 
 <!--
 **diegomais/diegomais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
