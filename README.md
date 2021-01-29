@@ -16,7 +16,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=282c34)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ⚡ Other techs & tools
+### ⚡ Other techs & tools:
 
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=fff)
