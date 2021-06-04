@@ -6,7 +6,7 @@ I'm a tech lead at [Koper](https://www.koper.com.br/) and we build the most comp
 
 A methodical guy, passionate about programming, and a fan of clean code.
 
-### 🔭 I'm currently interested in:
+### 🔭 I'm currently interested in
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
@@ -16,7 +16,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=282c34)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-### ⚡ Other techs & tools:
+### ⚡ Other techs & tools
 
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=fff)
@@ -53,6 +53,8 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![NPM](https://img.shields.io/badge/-NPM-f2f2f2?style=for-the-badge&logo=npm&logoColor=cb3837)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=000)
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=fff)
+![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=000)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
 ![Sentry](https://img.shields.io/badge/-Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=fff)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=fff)
@@ -63,7 +65,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 <p>
   <a href="mailto:diegomais.dev@gmail.com">
