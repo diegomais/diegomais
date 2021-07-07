@@ -8,6 +8,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 
 ### 🔭 I'm currently interested in
 
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
@@ -34,7 +35,6 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=fff)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=fff)
