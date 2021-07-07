@@ -9,9 +9,9 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ### 🔭 I'm currently interested in
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
 ![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=282c34)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -49,10 +49,10 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![JSON Web Token](https://img.shields.io/badge/-JSON%20Web%20Token-000?style=for-the-badge&logo=json-web-tokens&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f5f6f7?style=for-the-badge&logo=mongodb&logoColor=47a248)
 ![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs&logoColor=e0234e)
 ![NPM](https://img.shields.io/badge/-NPM-f2f2f2?style=for-the-badge&logo=npm&logoColor=cb3837)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=fff)
 ![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=000)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
