@@ -2,7 +2,7 @@
 
 ---
 
-I'm a tech lead at [Koper](https://www.koper.com.br/) and we build the most complete online integrated management solution with the lowest investment cost in civil construction.
+I'm a Senior React Developer at [Impulso](https://www.impulso.work) and we work on strategic projects, allowing companies to grow consistently at the speed they need.
 
 A methodical guy, passionate about programming, and a fan of clean code.
 
