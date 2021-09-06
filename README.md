@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Senior React Developer at [Impulso](https://www.impulso.work) and we work on strategic projects, allowing companies to grow consistently at the speed they need.
+I'm a Software Engineer at [Truelogic](https://www.truelogic.io) and we provide companies with the latest in software development to ensure the company is always at the forefront.
 
 A methodical guy, passionate about programming, and a fan of clean code.
 
