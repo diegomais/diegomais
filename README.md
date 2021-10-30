@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer at [Truelogic](https://www.truelogic.io) and we provide companies with the latest in software development to ensure the company is always at the forefront.
+I'm a Senior Software Engineer at [Truelogic](https://www.truelogic.io) and we provide companies with the latest in software development to ensure the company is always at the forefront.
 
 A methodical guy, passionate about programming, and a fan of clean code.
 
