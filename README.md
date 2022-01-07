@@ -14,7 +14,6 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=00c8ff)
-![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=282c34)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ### ⚡ Other techs & tools
@@ -53,6 +52,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=282c34)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=fff)
 ![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=000)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=fff)
