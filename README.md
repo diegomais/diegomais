@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineer at [‘nuffsaid](https://nuffsaid.com) and we help you to focus on the work that matters.
+I'm a Software Engineer at [TheySaid](https://www.theysaid.io) and we help companies know why their customers leave or grow.
 
 A methodical guy, passionate about programming, and a fan of clean code.
 
