@@ -69,7 +69,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 
 <p>
   <a href="mailto:diegomais.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-diegomais.dev%40gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Email-diegomais.pro%40gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/diegomais">
