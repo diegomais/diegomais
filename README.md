@@ -21,6 +21,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=fff)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=fff)
+![Auth0](https://img.shields.io/badge/-Auth0-eb5424?style=for-the-badge&logo=auth0&logoColor=fff)
 ![Azure](https://img.shields.io/badge/-Azure-0089d6?style=for-the-badge&logo=microsoft-azure&logoColor=fff)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311c87?style=for-the-badge&logo=apollo-graphql&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=fff)
