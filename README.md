@@ -65,6 +65,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/-styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Terraform](https://img.shields.io/badge/-Terraform-844fba?style=for-the-badge&logo=terraform&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8ebb?style=for-the-badge&logo=yarn&logoColor=fff)
