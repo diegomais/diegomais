@@ -50,6 +50,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f5f6f7?style=for-the-badge&logo=mongodb&logoColor=47a248)
 ![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=fff)
 ![NPM](https://img.shields.io/badge/-NPM-f2f2f2?style=for-the-badge&logo=npm&logoColor=cb3837)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-f7b93e?style=for-the-badge&logo=prettier&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
