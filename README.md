@@ -48,6 +48,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Jira](https://img.shields.io/badge/-Jira-0052cc?style=for-the-badge&logo=jira&logoColor=fff)
 ![JSON Web Token](https://img.shields.io/badge/-JSON%20Web%20Token-000?style=for-the-badge&logo=json-web-tokens&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f5f6f7?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=fff)
 ![NPM](https://img.shields.io/badge/-NPM-f2f2f2?style=for-the-badge&logo=npm&logoColor=cb3837)
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=fff)
