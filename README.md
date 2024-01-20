@@ -38,6 +38,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
 ![Grunt](https://img.shields.io/badge/-Grunt-fba919?style=for-the-badge&logo=grunt&logoColor=453015)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
