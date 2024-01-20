@@ -68,7 +68,7 @@ A methodical guy, passionate about programming, and a fan of clean code.
 ### 📫 How to reach me
 
 <p>
-  <a href="mailto:diegomais.dev@gmail.com">
+  <a href="mailto:diegomais.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-diegomais.dev%40gmail.com-d14836?logo=gmail&style=for-the-badge" alt="Email">
   </a>
   &nbsp;&nbsp;
@@ -78,10 +78,6 @@ A methodical guy, passionate about programming, and a fan of clean code.
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diegomais">
     <img src="https://img.shields.io/badge/LinkedIn-diegomais-0077b5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="skype:diego_mais?chat">
-    <img src="https://img.shields.io/badge/Skype-diego__mais-00aff0?logo=skype&style=for-the-badge" alt="Skype">
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/diegomais">
