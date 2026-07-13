@@ -2,8 +2,6 @@
 
 ---
 
-I'm a Software Engineer at [TheySaid](https://www.theysaid.io) and we help companies know why their customers leave or grow.
-
 A methodical guy, passionate about programming, and a fan of clean code.
 
 ### 🔭 I'm currently interested in
