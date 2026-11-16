@@ -1,8 +1,14 @@
-👋&nbsp;&nbsp;&nbsp;Hey there, I'm Diego Mais.
+# 👋 Hey, I'm Diego Mais
+
+**Senior Software Engineer | Full-Stack Developer**
+
+I'm a software engineer passionate about building products, solving complex problems, and writing clean, maintainable code.
+
+My primary focus is on **TypeScript, React, Next.js, and Node.js**, with experience building modern web applications, APIs, and scalable software solutions.
+
+I enjoy working across the stack, exploring new technologies, improving engineering practices, and finding better ways to build software.
 
 ---
-
-A methodical guy, passionate about programming, and a fan of clean code.
 
 ### 🔭 I'm currently interested in
 
